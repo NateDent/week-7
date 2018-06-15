@@ -1,0 +1,30 @@
+body {
+	background-color: #474646;
+}
+th {
+	font-size: 20px;
+	text-align: center;
+	background-color: #a33f32;
+}
+.panel-heading, h4 {
+	font-size: 30px;
+	text-align: center;
+	background-color: silver !important;
+}
+td {
+	text-align: center;
+}
+label {
+	font-size: 16px;
+}
+.jumbotron, #submitButton {
+	background-color: #a33f32;
+}
+button {
+	font-size: 20px !important;
+	text-align: center !important;
+}
+button:hover {
+	background-color: #e5d9e0 !important;
+	text-transform: uppercase;
+}
